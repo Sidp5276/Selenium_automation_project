@@ -1,4 +1,4 @@
-Test automation framework using Selenium with Java, TestNG and Maven
+## Test automation framework using Selenium with Java, TestNG and Maven
 
 This project is a Selenium-based test automation framework designed to automate web application testing.
 It follows industry-standard practices like Page Object Model and TestNG.
