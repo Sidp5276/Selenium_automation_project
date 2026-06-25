@@ -25,3 +25,4 @@ It follows industry-standard practices like Page Object Model and TestNG.
 - Integrate CI/CD (GitHub Actions / Jenkins)
 - Cross-browser testing
 
+
