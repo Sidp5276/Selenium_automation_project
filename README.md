@@ -23,4 +23,4 @@ It follows industry-standard practices like Page Object Model and TestNG.
 ## Future Enhancements
 - Add reporting (Extent Reports)
 - Integrate CI/CD (GitHub Actions / Jenkins)
-- Cross-browser testing
+- Cross-browser testing 
